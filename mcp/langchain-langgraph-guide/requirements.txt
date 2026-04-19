@@ -1,0 +1,37 @@
+# Core LangChain packages
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-anthropic>=0.3.0
+langchain-community>=0.3.0
+langchain-text-splitters>=0.3.0
+
+# LangGraph
+langgraph>=0.2.0
+
+# LangSmith (observability)
+langsmith>=0.1.0
+
+# Vector store
+chromadb>=0.5.0
+
+# Embeddings (free, local)
+sentence-transformers>=3.0.0
+
+# Pydantic (data validation)
+pydantic>=2.0.0
+
+# API framework
+fastapi>=0.115.0
+uvicorn>=0.30.0
+
+# PDF support
+pypdf>=4.0.0
+
+# Web search (free)
+duckduckgo-search>=6.0.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Math / Data
+numpy>=1.26.0
